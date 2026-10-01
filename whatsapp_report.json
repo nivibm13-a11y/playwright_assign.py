@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Aravind",
+        "phone": "919003129165",
+        "message_sent": "Hi Aravind, Good Evening ",
+        "status": "Failed",
+        "timestamp": "2026-10-01 17:41:51",
+        "screenshot_path": null,
+        "last_3_messages": [],
+        "error": "Failed to send or verify message for 919003129165 (Timeout)."
+    },
+    {
+        "name": "Lavanya Sis",
+        "phone": "919952512034",
+        "message_sent": "Hi Lavanya,Good Evening",
+        "status": "Failed",
+        "timestamp": "2026-10-01 17:42:16",
+        "screenshot_path": null,
+        "last_3_messages": [],
+        "error": "Failed to send or verify message for 919952512034 (Timeout)."
+    },
+    {
+        "name": "Amma Cbe",
+        "phone": "918870370577",
+        "message_sent": "Hi Amma,Good Evening",
+        "status": "Failed",
+        "timestamp": "2026-10-01 17:42:40",
+        "screenshot_path": null,
+        "last_3_messages": [],
+        "error": "Failed to send or verify message for 918870370577 (Timeout)."
+    }
+]
